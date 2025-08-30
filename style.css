@@ -87,7 +87,7 @@ table {
 td,
 th {
     border: 1px solid var(--dimWhite);
-    padding: 2px;
+    padding: 6px 8px;
 }
 
 /* table striping */
