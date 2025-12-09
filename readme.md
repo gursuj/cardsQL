@@ -31,6 +31,9 @@ Then, open `localhost:8000` in your browser.
 ![](./screenshots/edit-before.png)
 ![](./screenshots/edit-after.png)
 
+### Old Demo recording:
+https://github.com/user-attachments/assets/b586554a-4ee9-46d1-a1fc-9a206b609c04
+
 ## Notes for developers
 - Follow [Usage](#Usage) to setup the project
 - You may also want to enable php error display. Set these in your `php.ini` file.
